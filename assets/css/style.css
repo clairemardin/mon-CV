@@ -32,7 +32,7 @@ h2{
 
 
 .parallax, .parallax-outer{ 
-    background-image: url("../img/pexels-pineapple-supply-co-185348.jpg");
+    background-image: url("assets/img/pexels-pineapple-supply-co-185348.jpg");
     height: 100vh;
     background-attachment: fixed;
     background-size: cover;
