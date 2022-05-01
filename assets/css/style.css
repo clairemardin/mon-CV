@@ -41,6 +41,7 @@ margin-top: 1rem;
 }
 section {
     padding: 80px 0px 60px 0px;
+    font-family: 'Montserrat', sans-serif;
     /* background-color: rgba(177, 174, 174, 0.515); */
   }
 
@@ -66,7 +67,13 @@ section {
     justify-content: center;
     padding-top: 15rem;
     color: #190101;
+}
+.name{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-style: italic;
   
+
 }
 /* Section a propos de moi */
 .aboutMe{
@@ -240,7 +247,8 @@ body {
       padding-top : 2rem;
     }
     .btn{
-      margin-left: 1rem;
+      margin-left: 2rem;
       margin-bottom: 1rem;
+      font-size: 0.8rem;
     }
   }
