@@ -56,7 +56,7 @@ section {
 .card{
   height: auto;
   width: auto;
-  background-color:FFFFFF;
+  background-color:#FFFFFF;
 }
 .titleDev{
     font-family: 'Montserrat', sans-serif;
@@ -72,8 +72,6 @@ section {
   font-family: 'Montserrat', sans-serif;
   font-size: 3rem;
   font-style: italic;
-  
-
 }
 /* Section a propos de moi */
 .aboutMe{
