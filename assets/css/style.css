@@ -97,6 +97,13 @@ section {
 .cardContact{
   background: rgba(0, 0, 0, 0.509);
 }
+a{
+  text-decoration: none;
+}
+.textContact{
+  color: #FFB8B8;
+  cursor: pointer;
+}
 
 footer{
   height: auto;
