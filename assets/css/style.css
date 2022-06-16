@@ -61,7 +61,7 @@ section {
 .titleDev{
     font-family: 'Montserrat', sans-serif;
     display: block;
-    font-size: 3rem;
+    /* font-size: 4rem; */
     font-style: normal;
     text-align: center;
     justify-content: center;
@@ -70,9 +70,12 @@ section {
 }
 .name{
   font-family: 'Montserrat', sans-serif;
-  font-size: 3rem;
+  font-size: 3.5rem;
   font-style: italic;
+  color: #fcfafa;
+  font-weight: bold;
 }
+
 /* Section a propos de moi */
 .aboutMe{
     font-family: 'Montserrat', sans-serif;
@@ -256,4 +259,9 @@ body {
       margin-bottom: 1rem;
       font-size: 0.8rem;
     }
+  }
+
+  #nameJob {
+    height: 20rem;
+    color: #190101!important;
   }
