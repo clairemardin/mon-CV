@@ -107,6 +107,14 @@ section {
 
 }
 
+.projet {
+  font-weight: bold;
+  font-size: 1.1rem;
+
+
+
+}
+
 .cardContact {
   background: rgba(0, 0, 0, 0.509);
 }
